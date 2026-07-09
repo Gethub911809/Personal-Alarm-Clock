@@ -5,6 +5,24 @@ This project is an alarm clock that will be able to set a specific time that you
 ## Details
 This project was built using <a href="https://www.onshape.com/en/">Onshape </a> and was a submission to the <a href="https://blare.hackclub.com">Blair</a> YSWS project and my CAD models can be found <a href="https://cad.onshape.com/documents/f3b093a89a37cffec87c5bd3/w/b093fcf56d5720a0c9d0b237/e/5ad011d24cf31a08e65dee86">here</a>
 
+BOM
+
+* 1x Lolin C3 Mini ESP 32 Devboard
+
+* 5x Keyboard Switches
+
+* 1x 2.25in TFT Screen
+
+* 1x 3.3V Piezo Buzzer
+  
+* 3D-printed Case
+
+* 3D-Printed Key Caps
+  
+* Glue / adhesive
+
+* Jumper wires(Undesclosed amount at the moment)
+
 ## Images
 
 Wiring Diagram
